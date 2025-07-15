@@ -1,0 +1,10 @@
+# Ignorar carpeta de configuración de PyCharm
+.idea/
+
+# Ignorar archivos de sistema innecesarios
+__pycache__/
+*.pyc
+
+# Ignorar entornos virtuales (opcional, si usas)
+venv/
+.env/
